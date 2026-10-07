@@ -1,0 +1,19 @@
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Large datasets
+data/*.csv
+data/*.xlsx
+
+# Machine learning models
+models/*.pkl
+models/*.joblib
